@@ -11,5 +11,5 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/
 Platform as a service (PaaS)
 --------------
 
-Use platform as a service (PaaS) options
+Use platform as a service (PaaS) options  
 https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/managed-services
