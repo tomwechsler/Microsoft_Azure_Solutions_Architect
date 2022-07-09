@@ -1,7 +1,7 @@
 Microsoft Certified: Azure Solutions Architect Expert:
 -------------------
 
-https://docs.microsoft.com/de-de/learn/certifications/azure-solutions-architect/
+https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFRU
 
