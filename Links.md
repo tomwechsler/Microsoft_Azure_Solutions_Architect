@@ -18,6 +18,8 @@ https://docs.microsoft.com/en-us/learn/paths/design-infranstructure-solutions/
 
 https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/
 
+https://docs.microsoft.com/en-us/learn/paths/cloud-adoption-framework/
+
 Infrastructure as a Service (IaaS)
 --------------
 
