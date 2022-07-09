@@ -24,6 +24,10 @@ https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/
 
 https://docs.microsoft.com/en-us/learn/paths/cloud-adoption-framework/
 
+Thomas Maurer's Study Guide:
+----------------------------
+https://www.thomasmaurer.ch/2021/10/az-305-study-guide-azure-solutions-architect/
+
 More information directly from Microsoft, divided into the functional groups (Skills measured):
 --------------
 
