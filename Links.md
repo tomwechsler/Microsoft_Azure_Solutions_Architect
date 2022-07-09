@@ -5,6 +5,10 @@ https://docs.microsoft.com/de-de/learn/certifications/azure-solutions-architect/
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFRU
 
+Complete one prerequisite:
+-------------------------
+https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/
+
 Microsoft Learn:
 -------------------
 
