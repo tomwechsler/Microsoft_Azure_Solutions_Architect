@@ -8,8 +8,15 @@ https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFRU
 Microsoft Learn:
 -------------------
 
+https://docs.microsoft.com/en-us/learn/paths/design-identity-governance-monitor-solutions/
 
+https://docs.microsoft.com/en-us/learn/paths/design-business-continuity-solutions/
 
+https://docs.microsoft.com/en-us/learn/paths/design-data-storage-solutions/
+
+https://docs.microsoft.com/en-us/learn/paths/design-infranstructure-solutions/
+
+https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/
 
 Infrastructure as a Service (IaaS)
 --------------
