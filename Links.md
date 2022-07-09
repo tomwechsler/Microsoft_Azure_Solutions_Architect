@@ -25,6 +25,55 @@ More information directly from Microsoft, divided into the functional groups (Sk
 
 **Design identity, governance, and monitoring solutions:**
 
+https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs
+
+https://docs.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs
+
+https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/log-audit
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/overview
+
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring
+
+https://docs.microsoft.com/en-us/azure/sentinel/overview
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/check-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-arm
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure
+
+https://docs.microsoft.com/en-us/azure/governance/azure-management
+
+https://docs.microsoft.com/en-us/azure/governance/management-groups/overview
+
+https://docs.microsoft.com/en-us/azure/governance/policy/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-arm
+
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+
+https://docs.microsoft.com/en-us/azure/key-vault/general/overview
+
+https://docs.microsoft.com/en-us/azure/key-vault/general/about-keys-secrets-certificates
+
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent
 
 **Design data storage solutions:**
 
