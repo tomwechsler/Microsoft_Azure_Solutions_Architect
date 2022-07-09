@@ -23,8 +23,16 @@ https://docs.microsoft.com/en-us/learn/paths/cloud-adoption-framework/
 More information directly from Microsoft, divided into the functional groups (Skills measured):
 --------------
 
-**Design identity, governance, and monitoring solutions**
+**Design identity, governance, and monitoring solutions:**
 
+
+**Design data storage solutions:**
+
+
+**Design business continuity solutions:**
+
+
+**Design infrastructure solutions:**
 
 
 
