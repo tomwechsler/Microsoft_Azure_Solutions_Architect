@@ -77,13 +77,15 @@ https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-us
 
 **Design data storage solutions:**
 
+Coming soon!
 
 **Design business continuity solutions:**
 
+Coming soon!
 
 **Design infrastructure solutions:**
 
-
+Coming soon!
 
 Infrastructure as a Service (IaaS)
 --------------
