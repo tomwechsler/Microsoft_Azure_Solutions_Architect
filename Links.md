@@ -85,7 +85,47 @@ https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-us
 
 **Design data storage solutions:**
 
-Coming soon!
+https://docs.microsoft.com/en-us/azure/azure-sql/database/service-tiers-vcore?view=azuresql
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/service-tier-general-purpose?view=azuresql
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/scale-resources?view=azuresql
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-overview
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal&view=azuresql
+
+https://docs.microsoft.com/en-us/azure/data-factory/introduction
+
+https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks
+
+https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-overview
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+
+https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is
+
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
+
+https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview?view=azuresql
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql
+
+https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview?view=azuresql
+
+https://docs.microsoft.com/en-us/azure/postgresql/single-server/overview
+
+https://docs.microsoft.com/en-us/azure/mariadb/overview
+
+https://docs.microsoft.com/en-us/azure/mysql/single-server/overview
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
+
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
 
 **Design business continuity solutions:**
 
