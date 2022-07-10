@@ -169,6 +169,28 @@ https://docs.microsoft.com/en-us/azure/backup/backup-mabs-protection-matrix
 
 https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-multi-region
 
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction
+
+https://docs.microsoft.com/en-us/azure/backup/quick-backup-vm-portal
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-sql-database
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-overview
+
+https://docs.microsoft.com/en-us/azure/backup/blob-backup-overview
+
+https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
+
+https://docs.microsoft.com/en-us/azure/availability-zones/az-region
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/availability
+
+https://docs.microsoft.com/en-us/azure/architecture/high-availability/building-solutions-for-high-availability
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla?view=azuresql&tabs=azure-powershell
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/high-availability
+
 **Design infrastructure solutions:**
 
 Coming soon!
