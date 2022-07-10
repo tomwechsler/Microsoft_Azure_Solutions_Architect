@@ -127,6 +127,34 @@ https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/dat
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
 
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
+
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data
+
+https://docs.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-overview
+
+https://azure.microsoft.com/en-us/services/cache/#documentation
+
+https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-overview
+
+https://docs.microsoft.com/en-us/azure/time-series-insights/overview-what-is-tsi
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+
+https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction
+
+https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control-model
+
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction?toc=%2Fazure%2Fstorage%2Fblobs%2F
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/data-protection-overview
+
 **Design business continuity solutions:**
 
 Coming soon!
