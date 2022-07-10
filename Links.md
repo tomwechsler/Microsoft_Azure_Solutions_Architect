@@ -157,7 +157,17 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/data-protection-overview
 
 **Design business continuity solutions:**
 
-Coming soon!
+https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview
+
+https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-faq
+
+https://docs.microsoft.com/en-us/azure/backup/backup-overview
+
+https://docs.microsoft.com/en-us/azure/backup/backup-architecture
+
+https://docs.microsoft.com/en-us/azure/backup/backup-mabs-protection-matrix
+
+https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-multi-region
 
 **Design infrastructure solutions:**
 
