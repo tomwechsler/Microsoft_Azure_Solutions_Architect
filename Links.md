@@ -193,7 +193,47 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/high-availability
 
 **Design infrastructure solutions:**
 
-Coming soon!
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/overview
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/migrate-best-practices-costs#best-practice-right-size-vms
+
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+
+https://docs.microsoft.com/en-us/azure/app-service/overview
+
+https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
+
+https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview
+
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-intro
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching
+
+https://docs.microsoft.com/en-us/azure/cdn/cdn-overview
+
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn
+
+https://docs.microsoft.com/en-us/azure/cdn/cdn-create-endpoint-how-to
+
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview
+
+https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview
+
+https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services
+
+https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview
+
+https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal
+
+https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues
+
+
 
 Infrastructure as a Service (IaaS)
 --------------
