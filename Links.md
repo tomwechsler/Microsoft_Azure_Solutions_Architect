@@ -267,6 +267,24 @@ https://docs.microsoft.com/en-us/dotnet/azure/migration/sql
 
 https://docs.microsoft.com/en-us/data-migration/
 
+https://docs.microsoft.com/en-us/windows-server/storage/storage-migration-service/overview
+
+https://docs.microsoft.com/en-us/azure/databox/data-box-overview
+
+https://docs.microsoft.com/en-us/azure/networking/fundamentals/architecture-guides
+
+https://docs.microsoft.com/en-us/azure/firewall/overview
+
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways
+
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-optimize-network-bandwidth
+
+
+
 Infrastructure as a Service (IaaS)
 --------------
 
