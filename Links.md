@@ -283,7 +283,41 @@ https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction
 
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-optimize-network-bandwidth
 
+https://docs.microsoft.com/en-us/azure/firewall/features
 
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
+
+https://docs.microsoft.com/en-us/azure/firewall-manager/overview
+
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview
+
+https://docs.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-network-security-baseline
+
+https://docs.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services
+
+https://docs.microsoft.com/en-us/azure/virtual-network/application-security-groups
+
+https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal?tabs=option-1-create-internal-load-balancer-standard
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-powershell?tabs=option-1-create-load-balancer-standard
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?tabs=option-1-create-load-balancer-standard
+
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
+
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium
+
+https://docs.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door
+
+https://docs.microsoft.com/en-us/azure/route-server/overview
 
 Infrastructure as a Service (IaaS)
 --------------
