@@ -233,7 +233,39 @@ https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickst
 
 https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues
 
+https://docs.microsoft.com/en-us/azure/event-grid/overview
 
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/february/azure-event-driven-architecture-in-the-cloud-with-azure-event-grid
+
+https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app
+
+https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal
+
+https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about
+
+https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-create
+
+https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-stream-from-eventhubs
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/infrastructure-automation
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/state-configuration/state-configuration?tabs=cli%2Cwindows
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/infrastructure-automation
+
+https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/
+
+https://docs.microsoft.com/en-us/azure/migrate/how-to-assess
+
+https://docs.microsoft.com/en-us/azure/migrate/how-to-migrate
+
+https://azure.microsoft.com/en-us/services/database-migration/
+
+https://docs.microsoft.com/en-us/dotnet/azure/migration/sql
+
+https://docs.microsoft.com/en-us/data-migration/
 
 Infrastructure as a Service (IaaS)
 --------------
